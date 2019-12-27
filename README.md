@@ -1,2 +1,2 @@
-# acepta-el-reto
-https://www.aceptaelreto.com
+# Acepta el reto
+Solución a los problemas propuestos en la web https://www.aceptaelreto.com.
